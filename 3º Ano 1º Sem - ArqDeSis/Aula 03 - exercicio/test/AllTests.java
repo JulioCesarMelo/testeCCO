@@ -1,5 +1,5 @@
 package test;
-/*
+
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 import org.junit.runners.Suite.SuiteClasses;
@@ -9,4 +9,4 @@ import org.junit.runners.Suite.SuiteClasses;
 	ConnectionFactoryTest.class,SaqueTest.class,SaqueDAOTest.class,SaqueTOTest.class })
 public class AllTests {
 
-}*/
+}
