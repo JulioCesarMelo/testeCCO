@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Aula 02"/>
+	<classpathentry kind="src" path="Aula 03"/>
+	<classpathentry kind="src" path="Aula 03 - exercicio"/>
+	<classpathentry kind="src" path="Aula 04"/>
+	<classpathentry kind="src" path="Aula 05"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="F:/Julio/USJT/3ºAno/ArqDeSis/Aula 03/USJT2016ARQDESISAula03testesunitarioscomJUnit/mysql-connector-java-5.1.13-bin.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
